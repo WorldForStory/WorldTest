@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: d674e21f593e95b4aafd1525afd536f5
+timeCreated: 1510828200
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Aruna_GRP
+    100004: Aruna_Head
+    100006: Aruna_Hips
+    100008: Aruna_L_eye
+    100010: Aruna_LeftArm
+    100012: Aruna_LeftFoot
+    100014: Aruna_LeftForeArm
+    100016: Aruna_LeftHand
+    100018: Aruna_LeftHandIndex1
+    100020: Aruna_LeftHandIndex2
+    100022: Aruna_LeftHandIndex3
+    100024: Aruna_LeftHandIndex4
+    100026: Aruna_LeftHandMiddle1
+    100028: Aruna_LeftHandMiddle2
+    100030: Aruna_LeftHandMiddle3
+    100032: Aruna_LeftHandMiddle4
+    100034: Aruna_LeftHandRing1
+    100036: Aruna_LeftHandRing2
+    100038: Aruna_LeftHandRing3
+    100040: Aruna_LeftHandRing4
+    100042: Aruna_LeftHandThumb1
+    100044: Aruna_LeftHandThumb2
+    100046: Aruna_LeftHandThumb3
+    100048: Aruna_LeftHandThumb4
+    100050: Aruna_LeftLeg
+    100052: Aruna_LeftShoulder
+    100054: Aruna_LeftToeBase
+    100056: Aruna_LeftUpLeg
+    100058: Aruna_Neck
+    100060: Aruna_R_eye
+    100062: Aruna_RightArm
+    100064: Aruna_RightFoot
+    100066: Aruna_RightForeArm
+    100068: Aruna_RightHand
+    100070: Aruna_RightHandIndex1
+    100072: Aruna_RightHandIndex2
+    100074: Aruna_RightHandIndex3
+    100076: Aruna_RightHandIndex4
+    100078: Aruna_RightHandMiddle1
+    100080: Aruna_RightHandMiddle2
+    100082: Aruna_RightHandMiddle3
+    100084: Aruna_RightHandMiddle4
+    100086: Aruna_RightHandRing1
+    100088: Aruna_RightHandRing2
+    100090: Aruna_RightHandRing3
+    100092: Aruna_RightHandRing4
+    100094: Aruna_RightHandThumb1
+    100096: Aruna_RightHandThumb2
+    100098: Aruna_RightHandThumb3
+    100100: Aruna_RightHandThumb4
+    100102: Aruna_RightLeg
+    100104: Aruna_RightShoulder
+    100106: Aruna_RightToeBase
+    100108: Aruna_RightUpLeg
+    100110: Aruna_Spine
+    100112: Aruna_Spine1
+    100114: Aruna_Spine2
+    100116: Beltpack
+    100118: Beltpack_0
+    100120: BlendShapes
+    100122: body_GEO
+    100124: body_GEO_0
+    100126: chestBelt_GEO
+    100128: chestBelt_GEO_0
+    100130: Eye_BlendShapes
+    100132: gauntlet_GEO
+    100134: gauntlet_GEO_0
+    100136: GEO
+    100138: horns_GEO
+    100140: horns_GEO_0
+    100142: L_eye_GEO
+    100144: L_eye_GEO_0
+    100146: R_eye_GEO
+    100148: R_eye_GEO_0
+    400000: //RootNode
+    400002: Aruna_GRP
+    400004: Aruna_Head
+    400006: Aruna_Hips
+    400008: Aruna_L_eye
+    400010: Aruna_LeftArm
+    400012: Aruna_LeftFoot
+    400014: Aruna_LeftForeArm
+    400016: Aruna_LeftHand
+    400018: Aruna_LeftHandIndex1
+    400020: Aruna_LeftHandIndex2
+    400022: Aruna_LeftHandIndex3
+    400024: Aruna_LeftHandIndex4
+    400026: Aruna_LeftHandMiddle1
+    400028: Aruna_LeftHandMiddle2
+    400030: Aruna_LeftHandMiddle3
+    400032: Aruna_LeftHandMiddle4
+    400034: Aruna_LeftHandRing1
+    400036: Aruna_LeftHandRing2
+    400038: Aruna_LeftHandRing3
+    400040: Aruna_LeftHandRing4
+    400042: Aruna_LeftHandThumb1
+    400044: Aruna_LeftHandThumb2
+    400046: Aruna_LeftHandThumb3
+    400048: Aruna_LeftHandThumb4
+    400050: Aruna_LeftLeg
+    400052: Aruna_LeftShoulder
+    400054: Aruna_LeftToeBase
+    400056: Aruna_LeftUpLeg
+    400058: Aruna_Neck
+    400060: Aruna_R_eye
+    400062: Aruna_RightArm
+    400064: Aruna_RightFoot
+    400066: Aruna_RightForeArm
+    400068: Aruna_RightHand
+    400070: Aruna_RightHandIndex1
+    400072: Aruna_RightHandIndex2
+    400074: Aruna_RightHandIndex3
+    400076: Aruna_RightHandIndex4
+    400078: Aruna_RightHandMiddle1
+    400080: Aruna_RightHandMiddle2
+    400082: Aruna_RightHandMiddle3
+    400084: Aruna_RightHandMiddle4
+    400086: Aruna_RightHandRing1
+    400088: Aruna_RightHandRing2
+    400090: Aruna_RightHandRing3
+    400092: Aruna_RightHandRing4
+    400094: Aruna_RightHandThumb1
+    400096: Aruna_RightHandThumb2
+    400098: Aruna_RightHandThumb3
+    400100: Aruna_RightHandThumb4
+    400102: Aruna_RightLeg
+    400104: Aruna_RightShoulder
+    400106: Aruna_RightToeBase
+    400108: Aruna_RightUpLeg
+    400110: Aruna_Spine
+    400112: Aruna_Spine1
+    400114: Aruna_Spine2
+    400116: Beltpack
+    400118: Beltpack_0
+    400120: BlendShapes
+    400122: body_GEO
+    400124: body_GEO_0
+    400126: chestBelt_GEO
+    400128: chestBelt_GEO_0
+    400130: Eye_BlendShapes
+    400132: gauntlet_GEO
+    400134: gauntlet_GEO_0
+    400136: GEO
+    400138: horns_GEO
+    400140: horns_GEO_0
+    400142: L_eye_GEO
+    400144: L_eye_GEO_0
+    400146: R_eye_GEO
+    400148: R_eye_GEO_0
+    4300000: R_eye_GEO_0
+    4300002: Beltpack_0
+    4300004: chestBelt_GEO_0
+    4300006: horns_GEO_0
+    4300008: body_GEO_0
+    4300010: L_eye_GEO_0
+    4300012: gauntlet_GEO_0
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Beltpack_0
+    13700002: body_GEO_0
+    13700004: chestBelt_GEO_0
+    13700006: gauntlet_GEO_0
+    13700008: horns_GEO_0
+    13700010: L_eye_GEO_0
+    13700012: R_eye_GEO_0
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
